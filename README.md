@@ -1,4 +1,4 @@
-# File Manager
+# File Manag
 * I made this basic file manager with python.
 * I used standard `GUI` library called tkinter.
 * I make two option in this file manager:-
